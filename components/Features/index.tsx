@@ -13,9 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Our Approach",
-              description: `We believe every business has untapped potential. Our proven methodology combines deep market analysis, innovative design thinking, and results-driven strategies to unlock your company's growth opportunities. `,
+              title: "Ready to Grow?",
+              subtitle: "Where Innovation Meets Results",
+              description: "Elevate your business with cutting-edge web design and digital marketing solutions. From custom websites that captivate to SEO strategies that dominate search rankings, we're your partner in digital excellence."
             }}
           />
           {/* <!-- Section Title End --> */}

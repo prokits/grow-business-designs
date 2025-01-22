@@ -12,9 +12,9 @@ const Pricing = () => {
           <div className="animate_top mx-auto text-center">
             <SectionHeader
               headerInfo={{
-                title: `PRICING PLANS`,
-                subtitle: `Simple Pricing`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                title: `Our Pricing Plans`,
+                subtitle: `Plans for all business sizes`,
+                description: `Choose the perfect package for your business growth. All plans include ongoing support and maintenance.`,
               }}
             />
           </div>
@@ -34,39 +34,39 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $10{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                ₹ 45,000
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Small Pack
+                Startup Package
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Perfect for small businesses entering the digital space</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Custom 5-page website
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Basic SEO setup
                   </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Exclusive Support
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    Social media integration
                   </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    Monthly performance report
+                  </li>
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    5 hours monthly maintenance
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Get Started button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Get Started
                 </span>
                 <svg
                   width="14"
@@ -89,39 +89,39 @@ const Pricing = () => {
               </div>
 
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $59{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                ₹ 95,000
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Medium Pack
+                Growth Package
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Ideal for established businesses seeking expansion</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Custom 10-page website
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Advanced SEO optimization
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
+                    PPC campaign management
                   </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    Social media marketing
+                  </li>
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    10 hours monthly maintenance
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Scale Now button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Scale Now
                 </span>
                 <svg
                   width="14"
@@ -140,39 +140,39 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $189{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                ₹ 1,95,000
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Large Pack
+                Enterprise Package
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Comprehensive solution for large-scale operations</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Custom 20+ page website
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Full-scale SEO & content strategy
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
+                    Advanced analytics & reporting
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                    Multi-platform marketing
+                  </li>
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    20 hours monthly maintenance
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Transform Your Business button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Transform Your Business
                 </span>
                 <svg
                   width="14"
@@ -187,7 +187,7 @@ const Pricing = () => {
                 </svg>
               </button>
             </div>
-          </div>
+        </div>
         </div>
       </section>
       {/* <!-- ===== Pricing Table End ===== --> */}

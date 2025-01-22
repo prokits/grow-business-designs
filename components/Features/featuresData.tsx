@@ -4,44 +4,43 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Strategic Analysis",
+    title: "Web Design",
     description:
-      "Deep market analysis to understand your business landscape and identify key opportunities for sustainable growth.",
+      "Custom Website Design Stunning, responsive websites that convert visitors into customers. Mobile-optimized and built for performance.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "Creative Excellence",
+    title: "Digital Marketing & SEO",
     description:
-      "Blending innovative design thinking with proven business strategies to help your brand stand out in today's competitive market.",
+      "Digital Marketing & SEO Drive targeted traffic and boost your rankings. Our data-driven SEO strategies deliver measurable results."
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Results-Driven Approach",
+    title: "App Development",
     description:
-      "Focus on measurable success with data-driven strategies that transform your business vision into tangible outcomes.",
+      "Mobile App Development Transform your app idea into a reality. Our expert developers build high-performance mobile apps for iOS and Android.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Custom Growth Solutions",
+    title: "Local Business Listings",
     description:
-      "Tailored strategies that unlock your company's unique potential, whether you're a startup or an established business.",
+      "We help you get found online. Our local SEO services ensure your business is visible in local search results. Get found by customers near you.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "Expert Guidance",
-    description:
-      "Dedicated team of experts providing strategic thinking and creative solutions to guide your business journey.",
+    title: "Content Marketing",
+    description: "Content Marketing Engage your audience and drive conversions with compelling content.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Business Transformation",
+    title: "Social Media Optimization",
     description:
-      "Comprehensive methodology that combines innovation and strategy to help your business thrive in today's dynamic market.",
+    "Social Media Optimization Engage your audience and build brand loyalty. Our social media experts creates content that drives engagement.",
   },
 ];
 
