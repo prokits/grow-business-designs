@@ -34,7 +34,7 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                ₹ 45,000
+                $ 99
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Startup Package
@@ -89,7 +89,7 @@ const Pricing = () => {
               </div>
 
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                ₹ 95,000
+                $ 250
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Growth Package
@@ -140,7 +140,7 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                ₹ 1,95,000
+                $ 1490
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Enterprise Package
@@ -187,7 +187,7 @@ const Pricing = () => {
                 </svg>
               </button>
             </div>
-        </div>
+          </div>
         </div>
       </section>
       {/* <!-- ===== Pricing Table End ===== --> */}

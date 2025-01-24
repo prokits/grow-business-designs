@@ -5,34 +5,34 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Michael Chen",
+    designation: "CEO, Tech Innovators",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "GrowBusinessDesigns transformed our digital strategy. Their custom website and targeted SEO approach helped us increase our online visibility and customer acquisition by 250%.",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Sarah Rodriguez",
+    designation: "Founder, Urban Threads Boutique",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Working with GrowBusinessDesigns was a game-changer. Their strategic web design and digital marketing solutions put our local business on the map, dramatically improving our online sales.",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Dr. Emily Hartwell",
+    designation: "Founder, Wellness Insights Consulting",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "The team at GrowBusinessDesigns crafted a professional website that perfectly represents our healthcare consulting firm. Their expertise in digital branding is unmatched.",
   },
   {
     id: 4,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Jason Lee",
+    designation: "Marketing Director, Urban Threads Apparel",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "From website redesign to SEO optimization, GrowBusinessDesigns delivered exceptional results. They helped us create a compelling online presence that drives real business growth.",
   },
 ];
