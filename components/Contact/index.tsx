@@ -182,22 +182,32 @@ const Contact = () => {
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
-                <p>290 Maryam Springs 260, Courbevoie, Paris, France</p>
+                <p>
+                  Plot-11, Eco Intelligent Park, Unit No- 7E, 7th Floor, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091
+                </p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Email Address
                 </h3>
                 <p>
-                  <a href="#">yourmail@domainname.com</a>
+                  <a href="mailto:growbusinessdesigns@gmail.com">growbusinessdesigns@gmail.com</a>
                 </p>
               </div>
-              <div>
+              <div className="5 mb-7">
                 <h4 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Phone Number
                 </h4>
                 <p>
-                  <a href="#">+009 42334 6343 843</a>
+                  <a href="tel:+919830078419">9830078419</a>
+                </p>
+              </div>
+              <div>
+                <h4 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
+                  Skype
+                </h4>
+                <p>
+                  yourwebsiteexpert@gmail.com
                 </p>
               </div>
             </motion.div>

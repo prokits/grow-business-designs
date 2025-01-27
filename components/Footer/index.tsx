@@ -38,17 +38,17 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Premium web design and digital marketing solutions for ambitious businesses. 
+                  Premium web design and digital marketing solutions for ambitious businesses.
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
                   contact
                 </p>
                 <a
-                  href="#"
+                  href="mailto:growbusinessdesigns@gmail.com"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  growbusinessdesigns@gmail.com
                 </a>
               </motion.div>
 
