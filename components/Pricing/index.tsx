@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import SectionHeader from "../Common/SectionHeader";
+import Link from "next/link";
 
 const Pricing = () => {
   return (
@@ -118,9 +119,9 @@ const Pricing = () => {
                 aria-label="Scale Now button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Scale Now
-                </span>
+                <Link href="https://paypal.com/sendMoney?receiver=growbusinessdesigns@gmail.com" className="duration-300 group-hover/btn:pr-2">
+                 Pay Now
+                </Link>
                 <svg
                   width="14"
                   height="14"
@@ -169,9 +170,9 @@ const Pricing = () => {
                 aria-label="Transform Your Business button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Transform Your Business
-                </span>
+                <Link href="https://paypal.com/sendMoney?receiver=growbusinessdesigns@gmail.com" className="duration-300 group-hover/btn:pr-2">
+                  Pay Now
+                </Link>
                 <svg
                   width="14"
                   height="14"
@@ -248,9 +249,9 @@ const Pricing = () => {
                 aria-label="Get Started button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Get Started
-                </span>
+                <Link href="https://paypal.com/sendMoney?receiver=growbusinessdesigns@gmail.com" className="duration-300 group-hover/btn:pr-2">
+                  Pay Now
+                </Link>
                 <svg
                   width="14"
                   height="14"

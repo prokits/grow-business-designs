@@ -46,9 +46,16 @@ const Footer = () => {
                 </p>
                 <a
                   href="mailto:growbusinessdesigns@gmail.com"
-                  className="text-itemtitle font-medium text-black dark:text-white"
+                  className="text-itemtitle font-medium text-black dark:text-white inline-block mb-4"
                 >
                   growbusinessdesigns@gmail.com
+                </a>
+                <br />
+                <a
+                  href="mailto:growbusinessdesigns@gmail.com"
+                  className="text-itemtitle font-medium text-black dark:text-white inline-block"
+                >
+                  info@growbusinessdesigns.com
                 </a>
               </motion.div>
 
