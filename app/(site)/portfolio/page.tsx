@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 import Portfolio from "@/components/Portfolio"
 
 export const metadata: Metadata = {
-    title: "Portfolio - GrowBusinessDesigns",
-    description: "Explore our diverse collection of websites and digital solutions that we've created for clients across various industries. Each project showcases our commitment to excellence and innovation.",
+  title: "Portfolio - GrowBusinessDesigns",
+  description: "Explore our diverse collection of websites and digital solutions that we've created for clients across various industries. Each project showcases our commitment to excellence and innovation.",
 }
 
 type Website = {
@@ -69,7 +69,6 @@ const categories: Category[] = [
       { name: "Walker Designs", url: "http://walkerdesigns.com.au/", description: "Professional design studio" },
       { name: "Koolaman Designs", url: "http://www.koolamandesigns.com.au/", description: "Unique design solutions" },
       { name: "Dinosaur Designs", url: "http://dinosaurdesigns.com.au/", description: "Distinctive design style" },
-      { name: "Benudbeharidutt Legacy", url: "http://benudbehariduttlegacy.com/", description: "Heritage design" },
     ],
   },
   {
@@ -159,7 +158,6 @@ const categories: Category[] = [
       { name: "Bill Bergia", url: "https://www.billbergia.com.au/", description: "Property developer" },
       { name: "Level 33", url: "https://level33.com.au/", description: "Real estate services" },
       { name: "Legacy Property", url: "https://legacyproperty.com.au/", description: "Property development" },
-      { name: "Grihashakti", url: "https://www.grihashakti.com/", description: "Home financing" },
       { name: "Square Yards", url: "https://www.squareyards.com/", description: "Real estate platform" },
       { name: "NexGen Realty", url: "https://nexgenrealty.in/", description: "Modern real estate agency" },
       { name: "PropTech Buzz", url: "https://www.proptechbuzz.com/", description: "Property technology news" },
