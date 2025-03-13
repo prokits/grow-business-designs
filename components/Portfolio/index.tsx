@@ -50,14 +50,14 @@ export default function Portfolio({
                   key={websiteIndex}
                   className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none"
                 >
-                  <div className="relative mb-7.5 aspect-video w-full overflow-hidden rounded-lg">
+                  {/* <div className="relative mb-7.5 aspect-video w-full overflow-hidden rounded-lg">
                     <Image
                       src={`https://image.thum.io/get/width/600/crop/800/${website.url}`}
                       alt={`Screenshot of ${website.name}`}
                       fill
                       className="object-cover transition-transform duration-300 group-hover:scale-110"
                     />
-                  </div>
+                  </div> */}
                   <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">{website.name}</h4>
                   {website.description && (
                     <p className="mb-5 text-gray-500 dark:text-gray-400">{website.description}</p>
